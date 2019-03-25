@@ -1,0 +1,8 @@
+door
+stick
+bossy
+aquaintance
+swine
+dog
+cat
+eel
